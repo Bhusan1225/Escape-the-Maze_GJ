@@ -1,5 +1,4 @@
-#How to Play:*
-
+How to Play:
 
 Use WASD keys to navigate through the maze.
 Avoid the running train obstacle and reach the exit to win!
