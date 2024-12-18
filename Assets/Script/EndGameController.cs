@@ -10,7 +10,7 @@ public class EndGameController : MonoBehaviour
         if (collision.gameObject.GetComponent<playerController>() != null)
         {
 
-            Debug.Log(" GAME OVER");
+            Debug.Log("GAME OVER");
 
         }
 
